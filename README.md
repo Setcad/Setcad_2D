@@ -5,7 +5,7 @@
 
 For more details and screenshots, look at [www.setcad.com](http://www.setcad.com).
 
-![Screenshot of Setcad 2019](Setcad_2D/setcadScreen2019.png) 
+[Screenshot of Setcad 2019](https://github.com/Setcad/Setcad_2D/blob/master/setcadScreen2019.png) 
 
 ## Try it
 *Setcad* is under active development.  It's first release : http://www.setcad.com/en/program-download/
