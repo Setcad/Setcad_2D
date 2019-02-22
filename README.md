@@ -1,4 +1,4 @@
-# Setcad_2D
+# Setcad 2D
 
 ## About
 *Setcad* is a computer-aided design (CAD) program on Windows Platform.
